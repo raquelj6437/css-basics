@@ -44,3 +44,22 @@ code{
     background:lightgray;
 }
 
+#font-practice{
+    font-style: italic;
+}
+
+#link-practice{
+    color: green;
+}
+
+#link-practice:hover{
+    color: red;
+}
+
+#link-practice:visited{
+    color: black;
+}
+
+#line-height:active{
+    color: blue;
+}
