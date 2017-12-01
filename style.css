@@ -48,16 +48,16 @@ code{
     font-style: italic;
 }
 
-#link-practice{
+#link-practice:link{
     color: green;
-}
-
-#link-practice:hover{
-    color: red;
 }
 
 #link-practice:visited{
     color: black;
+}
+
+#link-practice:hover{
+    color: red;
 }
 
 #line-height:active{
